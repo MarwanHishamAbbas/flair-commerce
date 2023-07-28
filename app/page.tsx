@@ -1,4 +1,3 @@
-import { PageProps } from "@/.next/types/app/layout"
 import { client } from "@/sanity/lib/client"
 import { groq } from "next-sanity"
 
